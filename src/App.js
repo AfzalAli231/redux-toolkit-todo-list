@@ -5,7 +5,7 @@ import TodoList from './components/TodoList/TodoList';
 function App() {
   return (
     <div className='App'>
-      <h1 className='header'>RTK Todo List</h1>
+      <h1 className='header'>AFK Todo List</h1>
       <AddTodo />
       <TodoList />
     </div>
